@@ -1,0 +1,14 @@
+{
+  "id": "stseditor_energy_echo_extension",
+  "name": "能量回声（代码扩展）",
+  "description": "获得等于当前剩余能量的能量，至少1点。",
+  "upgradeDescription": "获得等于当前剩余能量的能量，至少2点。",
+  "cost": 0,
+  "type": "SKILL",
+  "color": "RED",
+  "rarity": "RARE",
+  "target": "SELF",
+  "image": "red/skill/shrug_it_off",
+  "enabled": true,
+  "effects": [ { "type": "JAVA_EXTENSION", "extensionId": "example.energy_echo", "amount": 1, "upgradeAmount": 2, "target": "SELF", "parameters": { "multiplier": 1 } } ]
+}

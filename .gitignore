@@ -1,0 +1,11 @@
+build/
+dist/
+data/
+backups/
+*.jar
+*.class
+*.exe
+*.log
+__pycache__/
+catalog.json
+catalog.en.json
