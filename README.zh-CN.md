@@ -4,7 +4,7 @@
 
 **说出你的卡牌创意，让 AI 铸造效果，再把它带进《杀戮尖塔》。**
 
-[English](README.md) · [发行状态](https://github.com/SENECA-wendy/spireforge-ai/releases/latest) · [反馈问题](https://github.com/SENECA-wendy/spireforge-ai/issues)
+[English](README.md) · [发行状态](https://github.com/SENECA-wendy/spireforge-ai/releases) · [反馈问题](https://github.com/SENECA-wendy/spireforge-ai/issues)
 
 尖塔铸卡是一款面向 **《杀戮尖塔 1》** 的 Windows 工具。用自然语言设计新卡，检查规则与生成的实现，通过手动编辑或 AI 再修改完善效果，并实时加入游戏。原生卡牌、本局卡组及后续奖励／商店牌池编辑也集成在同一工具中。
 

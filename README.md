@@ -4,7 +4,7 @@
 
 **Describe a card. Forge its mechanics. Play it in Slay the Spire.**
 
-[简体中文](README.zh-CN.md) · [Releases / status](https://github.com/SENECA-wendy/spireforge-ai/releases/latest) · [Report an issue](https://github.com/SENECA-wendy/spireforge-ai/issues)
+[简体中文](README.zh-CN.md) · [Releases / status](https://github.com/SENECA-wendy/spireforge-ai/releases) · [Report an issue](https://github.com/SENECA-wendy/spireforge-ai/issues)
 
 SpireForge AI turns natural-language ideas into custom cards for **Slay the Spire 1**. Inspect the generated rules and implementation, refine them with manual edits or another AI instruction, then bring your cards into a run. Native-card, deck, and reward/shop-pool editing are included.
 
